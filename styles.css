@@ -1,0 +1,21 @@
+body {
+    background-color: lightgrey;
+}
+
+.top {
+    text-align: center;
+}
+
+.upperband {
+    background-color: rgb(51, 124, 177);
+    color: white;
+    text-align: center;
+}
+
+.lowerband {
+    text-align: center;
+}
+
+.cardz {
+    background-color: white;
+}
